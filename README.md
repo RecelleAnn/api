@@ -1,12 +1,9 @@
-"# api Recelle" 
-
-# API Name
+## API Recelle
 
 The api Recelle is a PHP-based application programming interface designed to manage a database of names. It provides endpoints for creating, retrieving, updating, and deleting name records. The API utilizes the Slim framework for routing and PDO (PHP Data Objects) for secure and efficient database interactions.
 
 
-## API
-Endpoints
+## API Endpoints
 
 
 Insert Data Endpoint (POST /postName)
@@ -49,8 +46,7 @@ Description: Use this endpoint to delete a name record from the database.
  
 
 
-## Request
-Payload
+## Request Payload
 
 Request payload: 
 {
